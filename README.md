@@ -1,8 +1,8 @@
 # Python最終項目
 
-[Github項目倉庫鏈接](https://github.com/ldfc/2020python.end)
+- [Github項目倉庫鏈接](https://github.com/ldfc/2020python.end)
 
-[PythonAnyWhere部署鏈接](http://ldfckk.pythonanywhere.com/)
+- [PythonAnyWhere部署鏈接](http://ldfckk.pythonanywhere.com/)
 
 ---------------------------------------------------------------------------
 
